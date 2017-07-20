@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  width: 970px;
+  margin: 0 auto;
+}
+
+.App-todo{
+  
+}
+.App-todo li{
+  border-bottom: 1px solid #666;
+  text-align: left;
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.pointer{
+  cursor:pointer;
+}
+span.option{
+  margin-right: 10px;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
