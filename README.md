@@ -1,4 +1,10 @@
-My first REACT Project
+## My first REACT Project
+
+## How to use
+- Clone or Download
+   - Unpack in a folder
+- Use: *npm install*
+- To create a build: *npm run build*
 
 ## ToDo Web App
 
@@ -10,4 +16,4 @@ My first REACT Project
 - Edit Todo's
 - Delete Todo's
 - Save Todo's in a Database
-
+- ....
