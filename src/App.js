@@ -14,8 +14,7 @@ class App extends Component {
         {id: 2, title: "Reacten"},
         {id: 3, title: "Coden"},
         {id: 4, title: "Evtl. noch was Reduxen"},
-        {id: 5, title: "GK besuchen ;-)"},
-        {id: 6, title: "Noch was tolles, wie z. B. Maria DB kennelernen"}
+        {id: 5, title: "Noch was tolles, wie z. B. Maria DB kennelernen"}
       ]
     }
 

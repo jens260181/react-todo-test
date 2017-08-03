@@ -1,8 +1,10 @@
 .Panel{
     margin: 7px 0 25px 0;
     -webkit-box-shadow: 3px 2px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 3px 2px 5px 0px rgba(0,0,0,0.75);
-box-shadow: 3px 2px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 2px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 2px 5px 0px rgba(0,0,0,0.75);
+    transform: scale(1);
+    transition: 0.5s all ease-in-out;
 }
 
 .Panel:hover{
